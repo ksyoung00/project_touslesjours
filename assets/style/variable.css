@@ -1,0 +1,10 @@
+/* 변수 선언 */
+
+:root {
+  --main-font: "SBAggroB", -apple-system, BlinkMacSystemFont, "Malgun Gothic",
+    "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif;
+  --sub-font: "SUITE", -apple-system, BlinkMacSystemFont, "Malgun Gothic",
+    "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif;
+  --sub-font-ko: "GmarketSans", -apple-system, BlinkMacSystemFont,
+    "Malgun Gothic", "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif;
+}

@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+/* 변수 선언 */
+@import url(./variable.css);
+
+body {
+  font-family: var(--main-font);
+  font-weight: 400;
+  text-align: center;
+  overflow-wrap: break-word;
+  scroll-behavior: smooth;
+  transition: background-color 1s ease;
+}
+section {
+  height: 100vh;
+  transition: background-color 0.5s ease; /* 섹션의 배경색 전환을 부드럽게 만들기 위한 CSS 트랜지션 */
+}
+a {
+  cursor: pointer;
+}
+img {
+  vertical-align: top;
+  transition: 0.5s;
+}
