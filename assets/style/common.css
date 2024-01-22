@@ -10,6 +10,7 @@ body {
   overflow-wrap: break-word;
   scroll-behavior: smooth;
   transition: background-color 1s ease;
+  background-color: #365442;
 }
 section {
   height: 100vh;
